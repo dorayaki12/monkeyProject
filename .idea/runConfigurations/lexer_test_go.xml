@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="lexer_test.go" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+    <module name="monkeyProject" />
+    <working_directory value="$PROJECT_DIR$/lexer" />
+    <framework value="gotest" />
+    <kind value="FILE" />
+    <package value="monkeyProject" />
+    <directory value="$PROJECT_DIR$/" />
+    <filePath value="$PROJECT_DIR$/lexer/lexer_test.go" />
+    <method v="2" />
+  </configuration>
+</component>
